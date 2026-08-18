@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=180&section=header&text=Poreddy%20Narendra%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20%26%20Serverless%20AWS&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:181717&height=180&section=header&text=Poreddy%20Narendra%20Reddy&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20and%20Serverless%20AWS&descAlignY=58&descSize=18)
 
 <a href="https://linkedin.com/in/narendra2006">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+full-stack+apps+with+AWS+%26+TypeScript;Serverless+systems+%C2%B7+Event-driven+architecture;Open+to+SWE+Internships+-+June+2026&font=Fira+Code&center=true&width=600&height=40&color=0A66C2&vCenter=true&size=20" alt="Typing SVG" />
