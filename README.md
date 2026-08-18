@@ -61,15 +61,11 @@ Random Forest classifier (~98.6% accuracy) served via FastAPI, consumed end-to-e
 
 <div align="center">
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 
-<img src="https://github-readme-stats.vercel.app/api?username=poreddynarendra2006-debug&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=poreddynarendra2006-debug&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poreddynarendra2006-debug&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+![Profile views](https://komarev.com/ghpvc/?username=poreddynarendra2006-debug&color=0A66C2&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/poreddynarendra2006-debug?style=for-the-badge&color=0A66C2&logo=github&logoColor=white&label=FOLLOWERS)
 
 ![Snake animation](https://raw.githubusercontent.com/poreddynarendra2006-debug/poreddynarendra2006-debug/output/github-contribution-grid-snake.svg)
 
 </div>
-
-<sub>The snake animation above needs a one-time GitHub Action setup — see note below the fold if it doesn't render yet.</sub>
